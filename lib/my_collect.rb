@@ -1,4 +1,4 @@
-def my collection()
+def my collection
   
 end
 
